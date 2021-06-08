@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nyarlathotep438
-- 👀 I’m interested in ...
+- 👀 I’m interested in machine learning
 - 🌱 I’m currently learning R and perl 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on university
 - 📫 How to reach me shixiangy130@gmail.com
 
 <!---
